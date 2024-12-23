@@ -1,4 +1,4 @@
-# MDEP
+# HEDP
 This repository is our PyTorch implementation of HDEP.
 
 ## Requirements
